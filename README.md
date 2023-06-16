@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋🐭
 
 <!--
 **Renan-Gomide/Renan-Gomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-gomide&layout=compact&show_icons=true&theme=dracula)](https://github.com/renan-gomide/github-readme-stats)
+
+- 🔭 I’m currently working on a Document Editor
+- 🌱 I’m currently learning Python, SQL and Data Science
+- 👯 I’m looking to collaborate on any Data Science project
+- 📫 How to reach me: renangomide@gmail.com 
+- ⚡ Fun fact: I started programming at the age of 38 -- Jia You!⛩
