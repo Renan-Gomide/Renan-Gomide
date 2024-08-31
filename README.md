@@ -1,4 +1,6 @@
-### Speak Friend and Enter! 👋🐭
+<h1 align="center">Speak, Friend, and enter!<h1/> 
+<div align="center"><img src="https://images.squarespace-cdn.com/content/v1/614cb5c612b7b44e9ff3713d/1635201442131-3FCFX6CKNKBLJCE1U44W/Moria%2BDoor%2Bwrap2.1.jpg?format=1500w" width=50ppi/></div>
+<br><br>
 
 <!--
 **Renan-Gomide/Renan-Gomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
