@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-gomide&layout=compact&show_icons=true&theme=dracula)](https://github.com/renan-gomide/github-readme-stats)
 
 - 🔭 I’m currently working on a Document Editor
-- 🌱 I’m currently learning Python, SQL and GCP
+- 🌱 I’m currently learning Terraform, AWS and GCP
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: renangomide@gmail.com 
-- ⚡ Fun fact: I started programming at the age of 36 -- Jia You!⛩
+- ⚡ Fun fact: I started programming at the age of 36 -- 加油 ! ⛩
