@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, SQL and GCP
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: renangomide@gmail.com 
-- ⚡ Fun fact: I started programming at the age of 38 -- Jia You!⛩
+- ⚡ Fun fact: I started programming at the age of 36 -- Jia You!⛩
