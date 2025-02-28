@@ -1,12 +1,10 @@
 <h1 align="center">Speak, Friend, and enter!<h1/> 
 <div align="center"><img src="https://images.squarespace-cdn.com/content/v1/614cb5c612b7b44e9ff3713d/1635201442131-3FCFX6CKNKBLJCE1U44W/Moria%2BDoor%2Bwrap2.1.jpg?format=1500w" width=50ppi/></div>
 <br><br>
-
 <!--
 **Renan-Gomide/Renan-Gomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-gomide&layout=compact&show_icons=true&theme=dracula)](https://github.com/renan-gomide/github-readme-stats)
-
+-->
 
 ## 🚀 About Me
 I'm a **Data Engineer** and **Python Developer** passionate about building scalable data pipelines, automating ETL processes, and optimizing workflows using **Python, SQL, and Cloud Computing**. I have experience working with **Google Cloud (BigQuery, Cloud Run, Cloud Storage, IAM)** and **AWS**, focusing on data ingestion, analysis, and automation.
@@ -47,6 +45,7 @@ Currently, I'm deepening my knowledge in **DevOps**.
 ---
 
 ## 📚 Certifications & Learning
+- **AWS Certified Cloud Practitioner** ☁️
 - **Big Data & Decision Making** 📊
 - **GDPR & Data Privacy Compliance** 🔐
 - **Data Analysis & Visualization** 📉
